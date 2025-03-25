@@ -6,6 +6,10 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+##
+![![Top Langs](https://github-readme-stats.vercel.app/api/top-top-langs/?username=rieun2005@gmail.com)](https://github.com/riein2005@gmail.com/github-readme=stats)
 <!--
 **ri3un/ri3un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
