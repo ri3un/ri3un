@@ -1,6 +1,11 @@
-## Hi there 👋 THIS IS RIEUN's GITHUB
-![header](https://capsule-render.vercel.app/api?
-type=wave&color=auto&height=300%section=header&text=capsule%20render&fontSize=80)
+## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlist=10&height=200%section=header&text=RI3UN's%20GITHUB&fontSize=50&animation=twinkling%fontAlign=68&fontAlignY=36)
+
+## CURRENTLY LEARNING
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <!--
 **ri3un/ri3un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
