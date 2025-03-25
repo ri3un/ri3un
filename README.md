@@ -1,5 +1,6 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlist=10&height=200%section=header&text=RI3UN's%20GITHUB&fontSize=50&animation=twinkling%fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlist=10&height=200%section=header&text=eunjoo
+'s%20GITHUB&fontSize=50&animation=twinkling%fontAlign=68&fontAlignY=36)
 
 ## CURRENTLY LEARNING
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
