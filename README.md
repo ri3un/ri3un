@@ -21,8 +21,8 @@
 
 <div align="center">
 
-<a href="https://github.com/ri3un/programmers-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=programmers-python&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" width="48%" alt="Programmers Python" />
+<a href="https://github.com/ri3un/여기에-코드트리-저장소명">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=여기에-코드트리-저장소명&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" alt="CodeTree Repository" />
 </a>
 
 </div>
