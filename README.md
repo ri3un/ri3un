@@ -22,7 +22,10 @@
 <div align="center">
 
 <a href="https://github.com/ri3un/Codetree">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=Codetree&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=14" width="70%" alt="Codetree" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=Codetree&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" width="48%" alt="Codetree" />
+</a>
+<a href="https://github.com/ri3un/dogev-capstone-tips">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=dogev-capstone-tips&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" width="48%" alt="Dogev Capstone Tips" />
 </a>
 
 </div>
@@ -31,15 +34,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ri3un&hide_title=true&show_icons=true&hide=issues&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=14" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri3un&layout=compact&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&border_color=F2D98D&border_radius=14&langs_count=4" width="49%" alt="Top Languages" />
+<a href="https://github.com/ri3un">
+<img src="https://github-readme-stats.vercel.app/api?username=ri3un&hide_title=true&show_icons=true&hide=issues&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" width="48%" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/ri3un">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri3un&layout=compact&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&border_color=F2D98D&border_radius=12&langs_count=4" width="48%" alt="Most Used Languages" />
+</a>
 
 </div>
 
-**🌼 MOST USED LANGUAGES**
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri3un&layout=compact&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&border_color=F2D98D&border_radius=12&langs_count=4" width="60%" alt="Most Used Languages" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF1B8&height=90&section=footer" width="100%" />
 
-</td>
-</tr>
-</table>
+</div>
