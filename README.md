@@ -17,27 +17,34 @@
 
 </div>
 
-### 🍮 Projects
+### 🍮 Projects & Stats
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🍋 PROJECT**
 
 <a href="https://github.com/ri3un/Codetree">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=Codetree&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" alt="Codetree Repository" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=Codetree&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" width="100%" alt="Codetree Repository" />
 </a>
 
-</div>
+</td>
+<td width="50%" align="center">
 
-### ☁️ GitHub Stats
+**☁️ GITHUB STATS**
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ri3un&hide_title=true&show_icons=true&hide=issues&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" width="100%" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ri3un&hide_title=true&show_icons=true&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri3un&layout=compact&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&border_color=F2D98D&border_radius=12&langs_count=4" width="48%" alt="Top Languages" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-</div>
+**🌼 MOST USED LANGUAGES**
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri3un&layout=compact&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&border_color=F2D98D&border_radius=12&langs_count=4" width="60%" alt="Most Used Languages" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF1B8&height=90&section=footer" width="100%" />
-
-</div>
+</td>
+</tr>
+</table>
