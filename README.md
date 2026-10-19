@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### 🌟 Tech Stack
+### 🌟 Tech Stack 🌟
 
 <img src="https://img.shields.io/badge/Python-FFD966?style=for-the-badge&logo=python&logoColor=66552E" />
 <img src="https://img.shields.io/badge/C-D9EFFA?style=for-the-badge&logo=c&logoColor=36566B" />
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Git-FCE1D6?style=for-the-badge&logo=git&logoColor=9B5541" />
 <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=333333" />
 
-### 🌼 Currently Learning
+### ✏️ Currently Learning ✏️
 
 <img src="https://img.shields.io/badge/Algorithms-FFF1B8?style=flat-square&color=FFF1B8&labelColor=FFF1B8" />
 <img src="https://img.shields.io/badge/Data%20Structures-D9EFFA?style=flat-square&color=D9EFFA&labelColor=D9EFFA" />
