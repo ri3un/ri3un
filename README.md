@@ -17,29 +17,24 @@
 
 </div>
 
-### 🍮 Projects & Stats
+### 🍮 Projects
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-**🍋 PROJECT**
+<div align="center">
 
 <a href="https://github.com/ri3un/Codetree">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=Codetree&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" width="100%" alt="Codetree Repository" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=Codetree&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=14" width="70%" alt="Codetree" />
 </a>
 
-</td>
-<td width="50%" align="center">
+</div>
 
-**☁️ GITHUB STATS**
+### ☁️ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ri3un&hide_title=true&show_icons=true&hide=issues&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=12" width="100%" alt="GitHub Stats" />
+<div align="center">
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ri3un&hide_title=true&show_icons=true&hide=issues&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&icon_color=E8BB4D&border_color=F2D98D&border_radius=14" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri3un&layout=compact&bg_color=FFF9E6&title_color=8A6D1D&text_color=6B6046&border_color=F2D98D&border_radius=14&langs_count=4" width="49%" alt="Top Languages" />
+
+</div>
 
 **🌼 MOST USED LANGUAGES**
 
