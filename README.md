@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF1B8&height=180&section=header&text=Rieun&fontSize=48&fontColor=66552E&fontAlignY=38&desc=Computer%20Engineering%20Student&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF1B8&height=180&section=header&text=Rieun's Github&fontSize=48&fontColor=66552E&fontAlignY=38&desc=Computer%20Engineering%20Student&descAlignY=60&descSize=16" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/hello%20world-FFF1B8?style=flat-square&labelColor=FFF1B8&color=FFF1B8" />
 
 </div>
 
