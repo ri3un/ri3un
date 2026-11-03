@@ -46,13 +46,7 @@
 
 ### 🍮 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ri3un/dogev-capstone-tips"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=dogev-capstone-tips&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="100%" alt="Dogev Capstone Tips" /></a>
-
-**🐶 개발하개 — 반려견 건강관리 & 산책 코스 추천 플랫폼**
+**🐶 [개발하개](https://github.com/ri3un/dogev-capstone-tips) — 반려견 건강관리 & 산책 코스 추천 플랫폼**
 
 성결대학교 컴퓨터공학과 전공종합설계 3팀 프로젝트입니다.
 LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코스를 추천합니다.
@@ -66,30 +60,7 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 <img src="https://img.shields.io/badge/MySQL-FFE5C2?style=flat-square&logo=mysql&logoColor=66552E" />
 <img src="https://img.shields.io/badge/Docker-E8DDF7?style=flat-square&logo=docker&logoColor=66552E" />
 
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ri3un/Codetree"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=Codetree&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="100%" alt="Codetree" /></a>
-
-**🌳 Codetree — 알고리즘 문제풀이 기록**
-
-코드트리에서 푼 알고리즘 문제를 꾸준히 기록하는 저장소입니다.
-기초부터 차근차근 자료구조와 알고리즘을 공부하고 있습니다.
-
-- 📚 진행: Trail 1
-- ✏️ 커밋: 148+
-
-<img src="https://img.shields.io/badge/Python-FFD966?style=flat-square&logo=python&logoColor=66552E" />
-<img src="https://img.shields.io/badge/Algorithms-FFF1B8?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ri3un/kakao-chat-report"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=kakao-chat-report&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="100%" alt="Kakao Chat Report" /></a>
+<br/><br/>
 
 **💬 [kakao-chat-report](https://github.com/ri3un/kakao-chat-report) — 우리 단톡방 연말결산**
 
@@ -103,3 +74,16 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 <img src="https://img.shields.io/badge/pandas-D9EFFA?style=flat-square&logo=pandas&logoColor=36566B" />
 <img src="https://img.shields.io/badge/Plotly-E8DDF7?style=flat-square&logo=plotly&logoColor=66552E" />
 <img src="https://img.shields.io/badge/Streamlit-FCE1D6?style=flat-square&logo=streamlit&logoColor=9B5541" />
+
+<br/><br/>
+
+**🌳 [Codetree](https://github.com/ri3un/Codetree) — 알고리즘 문제풀이 기록**
+
+코드트리에서 푼 알고리즘 문제를 꾸준히 기록하는 저장소입니다.
+기초부터 차근차근 자료구조와 알고리즘을 공부하고 있습니다.
+
+- 📚 진행: Trail 1
+- ✏ 커밋: 148+
+
+<img src="https://img.shields.io/badge/Python-FFD966?style=flat-square&logo=python&logoColor=66552E" />
+<img src="https://img.shields.io/badge/Algorithms-FFF1B8?style=flat-square" />
