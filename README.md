@@ -48,7 +48,7 @@
 
 **🐶 [개발하개](https://github.com/ri3un/dogev-capstone-tips) — 반려견 건강관리 & 산책 코스 추천 플랫폼**
 
-성결대학교 컴퓨터공학과 전공종합설계 3팀 프로젝트입니다.
+성결대학교 컴퓨터공학과 전공종합설계 졸업작품 프로젝트입니다.
 LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코스를 추천합니다.
 
 - 🙋 역할: 프론트엔드: 기능별 화면 구현·API 연동, 발표 자료 제작, 반응형 퍼블리싱 및 UI 테스트
@@ -76,6 +76,9 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 <img src="https://img.shields.io/badge/Streamlit-FCE1D6?style=flat-square&logo=streamlit&logoColor=9B5541" />
 
 <br/><br/>
+
+
+### 📝 Study
 
 **🌳 [Codetree](https://github.com/ri3un/Codetree) — 알고리즘 문제풀이 기록**
 
