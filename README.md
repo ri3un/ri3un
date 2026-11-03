@@ -46,16 +46,42 @@
 
 ### 🍮 Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ri3un/Codetree"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=Codetree&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="48%" alt="Codetree" /></a><a href="https://github.com/ri3un/dogev-capstone-tips"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=dogev-capstone-tips&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="48%" alt="Dogev Capstone Tips" /></a>
+<a href="https://github.com/ri3un/dogev-capstone-tips"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=dogev-capstone-tips&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="100%" alt="Dogev Capstone Tips" /></a>
 
-</div>
+**🐶 개발하개 — 반려견 건강관리 & 산책 코스 추천 플랫폼**
 
-<div align="center">
+성결대학교 컴퓨터공학과 전공종합설계 3팀 프로젝트입니다.
+LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코스를 추천합니다.
 
-<br/>
+- 🙋 역할: 프론트엔드: 기능별 화면 구현·API 연동, 발표 자료 제작, 반응형 퍼블리싱 및 UI 테스트
+- 📅 기간: 2026.09 ~ 진행 중
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF1B8&height=100&section=footer" width="100%" />
+<img src="https://img.shields.io/badge/Spring%20Boot-D9EFFA?style=flat-square&logo=springboot&logoColor=36566B" />
+<img src="https://img.shields.io/badge/React-FFF1B8?style=flat-square&logo=react&logoColor=66552E" />
+<img src="https://img.shields.io/badge/TypeScript-D9EFFA?style=flat-square&logo=typescript&logoColor=36566B" />
+<img src="https://img.shields.io/badge/MySQL-FFE5C2?style=flat-square&logo=mysql&logoColor=66552E" />
+<img src="https://img.shields.io/badge/Docker-E8DDF7?style=flat-square&logo=docker&logoColor=66552E" />
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ri3un/Codetree"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=Codetree&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="100%" alt="Codetree" /></a>
+
+**🌳 Codetree — 알고리즘 문제풀이 기록**
+
+코드트리에서 푼 알고리즘 문제를 꾸준히 기록하는 저장소입니다.
+기초부터 차근차근 자료구조와 알고리즘을 공부하고 있습니다.
+
+- 📚 진행: Trail 1
+- ✏️ 커밋: 148+
+
+<img src="https://img.shields.io/badge/Python-FFD966?style=flat-square&logo=python&logoColor=66552E" />
+<img src="https://img.shields.io/badge/Algorithms-FFF1B8?style=flat-square" />
+
+</td>
+</tr>
+</table>
