@@ -85,3 +85,27 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 </td>
 </tr>
 </table>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ri3un/kakao-chat-report"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=kakao-chat-report&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="100%" alt="Kakao Chat Report" /></a>
+
+**💬 kakao-chat-report — 우리 단톡방 연말결산**
+
+카카오톡 단톡방 대화를 분석해서 "우리 단톡방 연말결산" 리포트를 만들어 주는 프로젝트입니다.
+사람별 메시지 수, 시간대별 활동 히트맵, 워드클라우드, 멤버별 칭호를 Streamlit 대시보드로 보여줍니다.
+
+- 🙋 역할: 개인 프로젝트 (기획·데이터 분석·대시보드 구현)
+- 📅 기간: 2026.11 ~ 진행 중
+
+<img src="https://img.shields.io/badge/Python-FFD966?style=flat-square&logo=python&logoColor=66552E" />
+<img src="https://img.shields.io/badge/pandas-D9EFFA?style=flat-square&logo=pandas&logoColor=36566B" />
+<img src="https://img.shields.io/badge/Plotly-E8DDF7?style=flat-square&logo=plotly&logoColor=66552E" />
+<img src="https://img.shields.io/badge/Streamlit-FCE1D6?style=flat-square&logo=streamlit&logoColor=9B5541" />
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
