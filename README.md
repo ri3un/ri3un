@@ -10,11 +10,11 @@
 
 ### ☁️ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ri3un&show_icons=true&hide_title=true&hide_border=true&bg_color=FFFDF5&text_color=776B50&icon_color=E8BB4D&include_all_commits=true" width="55%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-alpha-84.vercel.app/api?username=ri3un&show_icons=true&hide_title=true&hide_border=true&bg_color=FFFDF5&text_color=776B50&icon_color=E8BB4D&include_all_commits=true&cache_seconds=86400" width="55%" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri3un&layout=compact&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&langs_count=4" width="40%" alt="Most Used Languages" />
+<img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/top-langs/?username=ri3un&layout=compact&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&langs_count=4&cache_seconds=86400" width="40%" alt="Most Used Languages" />
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ri3un/Codetree"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=Codetree&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D" width="48%" alt="Codetree" /></a><a href="https://github.com/ri3un/dogev-capstone-tips"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ri3un&repo=dogev-capstone-tips&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D" width="48%" alt="Dogev Capstone Tips" /></a>
+<a href="https://github.com/ri3un/Codetree"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=Codetree&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="48%" alt="Codetree" /></a><a href="https://github.com/ri3un/dogev-capstone-tips"><img src="https://github-readme-stats-eight-alpha-84.vercel.app/api/pin/?username=ri3un&repo=dogev-capstone-tips&hide_border=true&bg_color=FFFDF5&title_color=8A6D1D&text_color=776B50&icon_color=E8BB4D&cache_seconds=86400" width="48%" alt="Dogev Capstone Tips" /></a>
 
 </div>
 
