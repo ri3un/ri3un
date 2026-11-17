@@ -90,3 +90,15 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 
 <img src="https://img.shields.io/badge/Python-FFD966?style=flat-square&logo=python&logoColor=66552E" />
 <img src="https://img.shields.io/badge/Algorithms-FFF1B8?style=flat-square" />
+
+---
+
+<div align="center">
+
+### ✏️ Blog
+
+<a href="https://velog.io/@VELOG_ID">
+  <img src="https://img.shields.io/badge/Velog-D9F5EA?style=for-the-badge&logo=velog&logoColor=1B8A6B" />
+</a>
+
+</div>
