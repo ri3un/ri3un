@@ -106,5 +106,9 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 
 #### 📌 Recent Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [[코드트리] 온전수 구하기](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-%EC%98%A8%EC%A0%84%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0) <sub>2026.11.16</sub>
+- [[코드트리] 완전수 판별기](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-%EC%99%84%EC%A0%84%EC%88%98-%ED%8C%90%EB%B3%84%EA%B8%B0) <sub>2026.11.15</sub>
+- [[코드트리] 5의 배수의 합](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-5%EC%9D%98-%EB%B0%B0%EC%88%98%EC%9D%98-%ED%95%A9) <sub>2026.11.13</sub>
+- [[코드트리] 윤년 횟수 구하기](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-%EC%9C%A4%EB%85%84-%ED%9A%9F%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0) <sub>2026.11.13</sub>
+- [[코드트리] A부터 B까지](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-A%EB%B6%80%ED%84%B0-B%EA%B9%8C%EC%A7%80) <sub>2026.11.12</sub>
 <!-- BLOG-POST-LIST:END -->
