@@ -54,11 +54,7 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 - 🙋 역할: 프론트엔드: 기능별 화면 구현·API 연동, 발표 자료 제작, 반응형 퍼블리싱 및 UI 테스트
 - 📅 기간: 2026.09 ~ 진행 중
 
-<img src="https://img.shields.io/badge/Spring%20Boot-D9EFFA?style=flat-square&logo=springboot&logoColor=36566B" />
-<img src="https://img.shields.io/badge/React-FFF1B8?style=flat-square&logo=react&logoColor=66552E" />
-<img src="https://img.shields.io/badge/TypeScript-D9EFFA?style=flat-square&logo=typescript&logoColor=36566B" />
-<img src="https://img.shields.io/badge/MySQL-FFE5C2?style=flat-square&logo=mysql&logoColor=66552E" />
-<img src="https://img.shields.io/badge/Docker-E8DDF7?style=flat-square&logo=docker&logoColor=66552E" />
+<img src="https://img.shields.io/badge/Spring%20Boot-D9EFFA?style=flat-square&logo=springboot&logoColor=36566B" /> <img src="https://img.shields.io/badge/React-FFF1B8?style=flat-square&logo=react&logoColor=66552E" /> <img src="https://img.shields.io/badge/TypeScript-D9EFFA?style=flat-square&logo=typescript&logoColor=36566B" /> <img src="https://img.shields.io/badge/MySQL-FFE5C2?style=flat-square&logo=mysql&logoColor=66552E" /> <img src="https://img.shields.io/badge/Docker-E8DDF7?style=flat-square&logo=docker&logoColor=66552E" />
 
 <br/><br/>
 
@@ -70,10 +66,7 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 - 🙋 역할: 개인 프로젝트 (기획·데이터 분석·대시보드 구현)
 - 📅 기간: 2026.11 ~ 진행 중
 
-<img src="https://img.shields.io/badge/Python-FFD966?style=flat-square&logo=python&logoColor=66552E" />
-<img src="https://img.shields.io/badge/pandas-D9EFFA?style=flat-square&logo=pandas&logoColor=36566B" />
-<img src="https://img.shields.io/badge/Plotly-E8DDF7?style=flat-square&logo=plotly&logoColor=66552E" />
-<img src="https://img.shields.io/badge/Streamlit-FCE1D6?style=flat-square&logo=streamlit&logoColor=9B5541" />
+<img src="https://img.shields.io/badge/Python-FFD966?style=flat-square&logo=python&logoColor=66552E" /> <img src="https://img.shields.io/badge/pandas-D9EFFA?style=flat-square&logo=pandas&logoColor=36566B" /> <img src="https://img.shields.io/badge/Plotly-E8DDF7?style=flat-square&logo=plotly&logoColor=66552E" /> <img src="https://img.shields.io/badge/Streamlit-FCE1D6?style=flat-square&logo=streamlit&logoColor=9B5541" />
 
 <br/><br/>
 
@@ -88,12 +81,10 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 - 📚 진행: Trail 1
 - ✏ 커밋: 148+
 
-<img src="https://img.shields.io/badge/Python-FFD966?style=flat-square&logo=python&logoColor=66552E" />
-<img src="https://img.shields.io/badge/Algorithms-FFF1B8?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-FFD966?style=flat-square&logo=python&logoColor=66552E" /> <img src="https://img.shields.io/badge/Algorithms-FFF1B8?style=flat-square" />
 
 ---
 
----
 
 ### ✏️ Blog
 
@@ -105,10 +96,5 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 <a href="https://velog.io/@ri3un"><img src="https://img.shields.io/badge/Visit%20my%20Velog-D9F5EA?style=flat-square&logo=velog&logoColor=1B8A6B" /></a>
 
 #### 📌 Recent Posts
-
-<!-- BLOG-POST-LIST:START -->- [[코드트리] 온전수 구하기](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-%EC%98%A8%EC%A0%84%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0) <sub>2026.11.16</sub>
-- [[코드트리] 완전수 판별기](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-%EC%99%84%EC%A0%84%EC%88%98-%ED%8C%90%EB%B3%84%EA%B8%B0) <sub>2026.11.15</sub>
-- [[코드트리] 5의 배수의 합](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-5%EC%9D%98-%EB%B0%B0%EC%88%98%EC%9D%98-%ED%95%A9) <sub>2026.11.13</sub>
-- [[코드트리] 윤년 횟수 구하기](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-%EC%9C%A4%EB%85%84-%ED%9A%9F%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0) <sub>2026.11.13</sub>
-- [[코드트리] A부터 B까지](https://velog.io/@ri3un/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC-A%EB%B6%80%ED%84%B0-B%EA%B9%8C%EC%A7%80) <sub>2026.11.12</sub>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
