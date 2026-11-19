@@ -97,12 +97,12 @@ LLM을 활용해 반려견의 건강 기록을 관리하고, 맞춤 산책 코�
 
 ### ✏️ Blog
 
-**🍯 [Velog](https://velog.io/@VELOG_ID) — 공부 기록 블로그**
+**🍯 [Velog](https://velog.io/@ri3un) — 공부 기록 블로그**
 
 코드트리 문제풀이와 공부한 내용을 정리하는 블로그입니다.
 알고리즘 풀이 과정, 전공 공부, 프로젝트 회고를 꾸준히 기록하고 있습니다.
 
-<a href="https://velog.io/@VELOG_ID"><img src="https://img.shields.io/badge/Visit%20my%20Velog-D9F5EA?style=flat-square&logo=velog&logoColor=1B8A6B" /></a>
+<a href="https://velog.io/@ri3un"><img src="https://img.shields.io/badge/Visit%20my%20Velog-D9F5EA?style=flat-square&logo=velog&logoColor=1B8A6B" /></a>
 
 #### 📌 Recent Posts
 
