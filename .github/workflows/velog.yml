@@ -1,0 +1,21 @@
+name: Velog Recent Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 매일 오전 9시 (KST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://api.velog.io/rss/@ri3un"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "yyyy.mm.dd"
