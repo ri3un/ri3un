@@ -17,5 +17,5 @@ jobs:
         with:
           feed_list: "https://api.velog.io/rss/@ri3un"
           max_post_count: 5
-          template: "- [$title]($url) <sub>$date</sub>$newline"
+          template: "$newline- `$date` &nbsp;[$title]($url)"
           date_format: "yyyy.mm.dd"
